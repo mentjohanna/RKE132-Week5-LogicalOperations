@@ -1,0 +1,14 @@
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/bin/Debug/net9.0/OrOperator
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/bin/Debug/net9.0/OrOperator.deps.json
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/bin/Debug/net9.0/OrOperator.runtimeconfig.json
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/bin/Debug/net9.0/OrOperator.dll
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/bin/Debug/net9.0/OrOperator.pdb
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.AssemblyInfoInputs.cache
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.AssemblyInfo.cs
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.csproj.CoreCompileInputs.cache
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.dll
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/refint/OrOperator.dll
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.pdb
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/OrOperator.genruntimeconfig.cache
+/Users/johanna/RiderProjects/Week5LogicalOperators/OrOperator/obj/Debug/net9.0/ref/OrOperator.dll

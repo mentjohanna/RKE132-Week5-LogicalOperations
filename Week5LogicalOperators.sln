@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5LogicalOperators", "Week5LogicalOperators\Week5LogicalOperators.csproj", "{36EEA7E0-E863-44ED-88A8-5D48F6F48CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDOperator", "ANDOperator\ANDOperator.csproj", "{A5F31F5B-1195-484E-BD26-49125EDE5C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDRanges", "ANDRanges\ANDRanges.csproj", "{E421E60F-756B-4610-BD05-23B09D57096B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrOperator", "OrOperator\OrOperator.csproj", "{CF8620B0-631A-4216-B916-92AC7AE09817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36EEA7E0-E863-44ED-88A8-5D48F6F48CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EEA7E0-E863-44ED-88A8-5D48F6F48CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EEA7E0-E863-44ED-88A8-5D48F6F48CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EEA7E0-E863-44ED-88A8-5D48F6F48CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F31F5B-1195-484E-BD26-49125EDE5C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F31F5B-1195-484E-BD26-49125EDE5C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F31F5B-1195-484E-BD26-49125EDE5C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F31F5B-1195-484E-BD26-49125EDE5C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E421E60F-756B-4610-BD05-23B09D57096B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E421E60F-756B-4610-BD05-23B09D57096B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E421E60F-756B-4610-BD05-23B09D57096B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E421E60F-756B-4610-BD05-23B09D57096B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8620B0-631A-4216-B916-92AC7AE09817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8620B0-631A-4216-B916-92AC7AE09817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8620B0-631A-4216-B916-92AC7AE09817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8620B0-631A-4216-B916-92AC7AE09817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
